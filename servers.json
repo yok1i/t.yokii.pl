@@ -5,6 +5,16 @@
 		"type": "PC"
 	},
 	{
+		"name": "HeartMC",
+		"ip": "heartmc.pl",
+		"type": "PC"
+	},
+	{
+		"name": "DotMC",
+		"ip": "dotmc.pl",
+		"type": "PC"
+	},
+	{
 		"name": "CubeCraft",
 		"ip": "play.cubecraft.net",
 		"type": "PC"
