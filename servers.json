@@ -1,22 +1,57 @@
 [
 	{
-		"name": "Hypixel",
-		"ip": "mc.hypixel.net",
-		"type": "PC"
-	},
-	{
 		"name": "HeartMC",
 		"ip": "heartmc.pl",
 		"type": "PC"
 	},
 	{
-		"name": "DotMC",
-		"ip": "dotmc.pl",
+		"name": "Anarchia",
+		"ip": "anarchia.gg",
 		"type": "PC"
 	},
 	{
-		"name": "CubeCraft",
-		"ip": "play.cubecraft.net",
+		"name": "Rapy",
+		"ip": "rapy.gg",
+		"type": "PC"
+	},
+	{
+		"name": "Minestar",
+		"ip": "minestar.gg",
+		"type": "PC"
+	},
+	{
+		"name": "KoksCraft",
+		"ip": "kokscraft.pl",
+		"type": "PC"
+	},
+	{
+		"name": "CraftPlay",
+		"ip": "craftplay.pl",
+		"type": "PC"
+	},
+	{
+		"name": "CraftCube",
+		"ip": "craftcube.pl",
+		"type": "PC"
+	},
+	{
+		"name": "PykMC",
+		"ip": "pykmc.pl",
+		"type": "PC"
+	},
+	{
+		"name": "ClearMC",
+		"ip": "clearmc.pl",
+		"type": "PC"
+	},
+	{
+		"name": "Szefy",
+		"ip": "szefy.pl",
+		"type": "PC"
+	},
+	{
+		"name": "DotMC",
+		"ip": "dotmc.pl",
 		"type": "PC"
 	}
 ]
