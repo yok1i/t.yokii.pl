@@ -1,6 +1,6 @@
 const SORT_OPTIONS = [
   {
-    getName: () => 'Players',
+    getName: () => 'Gracze',
     sortFunc: (a, b) => b.playerCount - a.playerCount,
     highlightedValue: 'player-count'
   },
@@ -30,7 +30,7 @@ const SORT_OPTIONS = [
     highlightedValue: 'peak'
   },
   {
-    getName: () => 'Record',
+    getName: () => 'Rekord',
     sortFunc: (a, b) => {
       if (!a.lastRecordData && !b.lastRecordData) {
         return 0
